@@ -1,0 +1,11 @@
+mapResource = 
+{
+    ["ResKey_Action_52"] = "zoneSetup.lua",
+    ["ResKey_ImageBriefing_14"] = "foothold.jpg",
+    ["ResKey_ImageBriefing_11"] = "foothold map1.jpg",
+    ["ResKey_Action_53"] = "Splash_Damage_2_0.lua",
+    ["ResKey_Action_33"] = "mist_4_5_107.lua",
+    ["ResKey_Action_26"] = "ding.ogg",
+    ["ResKey_Action_27"] = "cancel.ogg",
+    ["ResKey_Action_45"] = "zoneCommander.lua",
+} -- end of mapResource
